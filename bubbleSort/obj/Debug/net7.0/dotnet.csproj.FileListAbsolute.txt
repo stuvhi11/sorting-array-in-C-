@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\hildatok\dotnet\dotnet\bin\Debug\net7.0\dotnet.exe
+C:\Users\LENOVO\Documents\hildatok\dotnet\dotnet\bin\Debug\net7.0\dotnet.deps.json
+C:\Users\LENOVO\Documents\hildatok\dotnet\dotnet\bin\Debug\net7.0\dotnet.runtimeconfig.json
+C:\Users\LENOVO\Documents\hildatok\dotnet\dotnet\bin\Debug\net7.0\dotnet.dll
+C:\Users\LENOVO\Documents\hildatok\dotnet\dotnet\bin\Debug\net7.0\dotnet.pdb
+C:\Users\LENOVO\Documents\hildatok\dotnet\dotnet\obj\Debug\net7.0\dotnet.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\hildatok\dotnet\dotnet\obj\Debug\net7.0\dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\hildatok\dotnet\dotnet\obj\Debug\net7.0\dotnet.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\hildatok\dotnet\dotnet\obj\Debug\net7.0\dotnet.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\hildatok\dotnet\dotnet\obj\Debug\net7.0\dotnet.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\hildatok\dotnet\dotnet\obj\Debug\net7.0\dotnet.dll
+C:\Users\LENOVO\Documents\hildatok\dotnet\dotnet\obj\Debug\net7.0\refint\dotnet.dll
+C:\Users\LENOVO\Documents\hildatok\dotnet\dotnet\obj\Debug\net7.0\dotnet.pdb
+C:\Users\LENOVO\Documents\hildatok\dotnet\dotnet\obj\Debug\net7.0\dotnet.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\hildatok\dotnet\dotnet\obj\Debug\net7.0\ref\dotnet.dll
