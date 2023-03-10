@@ -16,4 +16,4 @@ Quick Sort is an efficient divide-and-conquer algorithm. It divides a large list
 - **Merge Sort**  
 Merge sort is a very efficient comparison-based sorting algorithm. It is a divide-and-conquer algorithm, which works by repeatedly dividing the array in small parts and merging them again in the sorted order.  
 
-[source](https://www.thedshandbook.com/sorting-in-arrays/)
+Source : [sorting in array](https://www.thedshandbook.com/sorting-in-arrays/)
