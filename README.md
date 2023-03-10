@@ -14,4 +14,6 @@ Selection sort is generally used for sorting files with very large records and s
 Quick Sort is an efficient divide-and-conquer algorithm. It divides a large list into two smaller sub-lists based on a pivot chosen, into smaller and larger elements. Quick Sort then recursively does this to the sub-lists finally producing a sorted list.  
 
 - **Merge Sort**  
-Merge sort is a very efficient comparison-based sorting algorithm. It is a divide-and-conquer algorithm, which works by repeatedly dividing the array in small parts and merging them again in the sorted order.
+Merge sort is a very efficient comparison-based sorting algorithm. It is a divide-and-conquer algorithm, which works by repeatedly dividing the array in small parts and merging them again in the sorted order.  
+
+[source](https://www.thedshandbook.com/sorting-in-arrays/)
